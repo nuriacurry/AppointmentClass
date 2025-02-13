@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppointmentClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b3f47294bd08f205bd74c996f857f2d131964ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d5881441781f1e8959b8e6b4244eb6fab047db")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppointmentClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppointmentClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
