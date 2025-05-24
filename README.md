@@ -64,5 +64,6 @@ Menu:
 ```
 
 ## Author
-Student: Nuria Siddiqa
-Professor: Hao Tang  
+**Student:** Nuria Siddiqa
+**Course:** CSC 350H  
+**Professor:** Hao Tang  
