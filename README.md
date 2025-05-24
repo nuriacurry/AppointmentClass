@@ -64,6 +64,5 @@ Menu:
 ```
 
 ## Author
-Student submission for CSC 350H  
+Student: Nuria Siddiqa
 Professor: Hao Tang  
-Simple but effective console menu demonstration
